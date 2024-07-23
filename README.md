@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahiltiwari2
-- 👀 I’m interested in Application and Websited.
-- 🌱 I’m currently learning python and web development
+- 👀 I’m interested in many things like Aplication building, website development, AI / ML, Cloud ( AWS ) and still learning more.
+- 🌱 I’m currently learning AI / ML. 
 - 💞️ I’m looking to collaborate on anything related to my intrest. 
 - 📫 How to reach me "sahiltiwari2005@gmail.com"
 
